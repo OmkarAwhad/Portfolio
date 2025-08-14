@@ -71,7 +71,7 @@ function Navbar() {
 					About Me
 				</NavLink>
 				<a
-					href="https://drive.google.com/file/d/1wZEDqTAU5PgWoLmk_AHbUbsaD2PVROmO/view?usp=sharing"
+					href="https://drive.google.com/file/d/13L8uPzVXh4VgIa33FS3jCYJLJR8KTYtV/view?usp=sharing"
 					target="_blank"
 					rel="noopener noreferrer"
 					className="flex items-center px-3 font-semibold gap-2 rounded-md hover:bg-gray-700 transition-colors duration-200"
@@ -173,7 +173,7 @@ function Navbar() {
 							About Me
 						</NavLink>
 						<a
-							href="https://drive.google.com/file/d/1wZEDqTAU5PgWoLmk_AHbUbsaD2PVROmO/view?usp=sharing"
+							href="https://drive.google.com/file/d/13L8uPzVXh4VgIa33FS3jCYJLJR8KTYtV/view?usp=sharing"
 							target="_blank"
 							rel="noopener noreferrer"
 							onClick={closeMobileMenu}
