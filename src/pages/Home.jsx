@@ -46,7 +46,7 @@ function Home() {
 					</div>
 				</div>
 			</div>
-			<footer className="w-full sm:w-[50%] mx-auto py-4 flex flex-wrap justify-center items-center mt-10 sm:mt-12 gap-6 sm:gap-8 text-2xl sm:text-3xl bg-black text-white">
+			<footer className="w-full sm:w-[50%] mx-auto py-4 flex flex-wrap justify-center items-center mt-10 sm:mt-12 gap-6 sm:gap-8 text-2xl sm:text-3xl bg-black sm:bg-transparent text-white">
 				<a
 					href="https://github.com/OmkarAwhad"
 					target="_blank"

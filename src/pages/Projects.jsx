@@ -50,7 +50,7 @@ function Projects() {
 	];
 
 	return (
-		<div className="h-full w-full flex flex-col mt-20 items-center p-4 sm:p-8 bg-black text-white">
+		<div className="h-full w-full flex flex-col mt-20 items-center p-4 sm:p-8 bg-black sm:bg-transparent text-white">
 			{" "}
 			{/* Reduced padding on mobile */}
 			<h1 className="text-4xl sm:text-5xl font-bold mb-6 sm:mb-8 tracking-wide">

@@ -33,7 +33,7 @@ function About() {
 	];
 
 	return (
-		<div className="h-full w-full flex flex-col items-center mt-20 p-4 sm:p-8 bg-black text-white">
+		<div className="h-full w-full flex flex-col items-center mt-20 p-4 sm:p-8 bg-black sm:bg-transparent text-white">
 			{" "}
 			{/* Reduced padding on small screens */}
 			<div className="w-full max-w-4xl mb-12">

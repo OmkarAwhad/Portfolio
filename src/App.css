@@ -1,22 +1,19 @@
 @import "tailwindcss";
 
 @theme {
-	--font-family-sans: "Outfit", sans-serif; /* Outfit as default for the whole site */
-	--font-family-mono: "Google Sans Code", monospace; /* For code or specific elements */
+	--font-family-sans: "Outfit", sans-serif;
+	--font-family-mono: "Google Sans Code", monospace;
 }
 
-/* Optional: Base layer for explicit global application */
 @layer base {
 	html {
 		font-family: var(
 			--font-family-sans
-		); /* Ensures Outfit is applied everywhere by default */
+		);
 	}
 }
 
-/* Your custom CSS classes (adapted from Google Fonts suggestions) */
 .outfit-regular {
-	/* Example for normal style, weight 400 */
 	font-family: "Outfit", sans-serif;
 	font-optical-sizing: auto;
 	font-weight: 400;
@@ -24,7 +21,6 @@
 }
 
 .google-sans-code-regular {
-	/* Example for normal style, weight 400 */
 	font-family: "Google Sans Code", monospace;
 	font-optical-sizing: auto;
 	font-weight: 400;
